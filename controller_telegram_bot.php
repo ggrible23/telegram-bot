@@ -2,9 +2,9 @@
 
 class TelegramBot {
     // Set the bot TOKEN
-    public static $bot_token = "193865490:AAEazMzPvrqtdeQ1bcwKCgsergIQyIfGjok";
+    private static $bot_token = "193865490:AAEazMzPvrqtdeQ1bcwKCgsergIQyIfGjok";
     
-    public static $request_url = "https://api.telegram.org/bot";
+    private static $request_url = "https://api.telegram.org/bot";
     
     private $chat_id;
     
