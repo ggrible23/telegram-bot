@@ -1,7 +1,8 @@
 <?php
 /**
  * Telegram Bot
- * @author Glenn Rible
+ * @author: Glenn Rible
+ * @telegram_account: telegram.me/GlennR_bot
  */
 include("library/Telegram.php");
 
